@@ -1,0 +1,106 @@
+@media (min-width: 320px) and (max-width: 425px) { 
+    .addresname{
+        margin-left: 0px;
+        margin-top: 33px;
+    }
+    .shapesection{
+        position: absolute;
+        margin-top: -23rem;
+        margin-left: 3rem;
+    }
+    .years{
+        position: absolute;
+        margin-top: -18rem;
+        margin-left: 105px;
+    }
+    .about-section{
+        height: 1547px;
+    }
+    .achivement{
+        margin-left: -32px;
+    }
+    .oursection{
+        margin: 0px;
+    }
+    .owl-theme .owl-nav {
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    .our-team-section{
+        padding-left: 0px;
+    }
+    .reasone{
+        font-size: 30px;
+    }
+    .why-choose{
+        text-align: center;
+    }
+    .prologo{
+        margin: 0px;
+    }
+    .logo-service{
+        margin-top: 118px;
+        margin-left: 30px;
+        width: 223px;
+        height: 223px;
+        background-color: #ffffff;
+    }
+    .logo-bg{
+        position: absolute;
+        margin-top: 60px;
+        margin-left: 52px;
+    }
+    .sbase{
+        position: absolute;
+        margin-top: -290px;
+        }
+        .trust{
+            padding-top: 10px;
+            padding-left: 0px;
+        }
+
+}
+@media (min-width: 425px) and (max-width: 768px) { 
+    .addresname{
+        margin-left: 0px;
+        margin-top: 33px;
+    }
+    .shapesection{
+        position: absolute;
+        margin-top: -23rem;
+        margin-left: 3rem;
+    }
+    .years{
+        position: absolute;
+        margin-top: -18rem;
+        margin-left: 105px;
+    }
+    .about-section{
+        height: 681px;
+    }
+    .our-team-section{
+        padding-left: 0px;
+    }
+    .achivement{
+        margin-left: -20px;
+    }
+    .reasone{
+        font-size: 30px;
+    }
+    .logo-service{
+        margin-top: 176px;
+        margin-left: 97px;
+        width: 200px;
+        height: 200px;
+        background-color: #ffffff;
+    }
+    .logo-bg{
+        position: absolute;
+        margin-top: 50px;
+        margin-left: 41px;
+    
+    }
+    .getbtn{
+        margin-left: -16px;
+    }
+}
